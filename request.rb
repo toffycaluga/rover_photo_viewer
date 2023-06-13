@@ -1,3 +1,6 @@
+# 1. Crear el método request que reciba una url y retorne el hash con los resultados.
+
+
 def request(url_requested)
     # Crear la instancia URI con la URL proporcionada
     url = URI(url_requested)
