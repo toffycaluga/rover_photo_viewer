@@ -28,5 +28,5 @@ def build_web_page(photos)
     </body>
     </html>"
 
-    File.write('index.html',html)
+    File.write('photos.html',html)
 end
