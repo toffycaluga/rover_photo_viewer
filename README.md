@@ -11,9 +11,8 @@ Este repositorio contiene una aplicación de Ruby para visualizar fotos del rove
 
 1.  Clona este repositorio en tu máquina local:
 
-    git clone https://github.com/toffycaluga/rover_photo_viewer.git
-
     ```
+    git clone https://github.com/toffycaluga/rover_photo_viewer.git
 
     ```
 
