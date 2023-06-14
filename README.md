@@ -62,6 +62,6 @@ El repositorio contiene los siguientes archivos:
 
 ¡Gracias por visitar el repositorio del Rover Photo Viewer! Si tienes alguna pregunta o sugerencia, no dudes en contactarnme.
 
-    Recuerda reemplazar "API_KEY" en la sección de Configuración con tu clave de API de la NASA.
+**Recuerda reemplazar "API_KEY" en la sección de Configuración con tu clave de API de la NASA.**
 
 ⌨️ con amor ❤️por [Toffy Caluga](https://github.com/toffycaluga)
