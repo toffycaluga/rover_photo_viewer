@@ -1,18 +1,19 @@
-# Rover Photo Viewer
+# Rover Photo Viewer🚀
 
 Este repositorio contiene una aplicación de Ruby para visualizar fotos del rover de la NASA en Marte. La aplicación realiza una solicitud a la API de la NASA, obtiene los datos de las fotos del rover Curiosity y genera una página web con las imágenes.
 
 ## Requerimientos
 
-- Ruby
-- Gemas: uri, net/http, json, dotenv
+- Ruby 💎
+- Gemas: uri, net/http, json, dotenv 🔸🔸
 
 ## Configuración
 
 1.  Clona este repositorio en tu máquina local:
 
-    ```shell
-    git clone https://github.com/tu-usuario/rover-photo-viewer.git
+    git clone https://github.com/toffycaluga/rover_photo_viewer.git
+
+    ```
 
     ```
 
@@ -63,7 +64,5 @@ El repositorio contiene los siguientes archivos:
 ¡Gracias por visitar el repositorio del Rover Photo Viewer! Si tienes alguna pregunta o sugerencia, no dudes en contactarnme.
 
     Recuerda reemplazar "TU_CLAVE_DE_API" en la sección de Configuración con tu clave de API de la NASA.
-
-    Espero que este README sea útil para documentar el repositorio. Si tienes alguna otra pregunta o necesitas más ayuda, ¡no dudes en preguntar!
 
 ⌨️ con amor ❤️por [Toffy Caluga](https://github.com/toffycaluga)
